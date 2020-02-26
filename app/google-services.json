@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792224477577",
+    "firebase_url": "https://fypreminder-e5e88.firebaseio.com",
+    "project_id": "fypreminder-e5e88",
+    "storage_bucket": "fypreminder-e5e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792224477577:android:80f0d3ef66dd4f8c2af158",
+        "android_client_info": {
+          "package_name": "com.example.fyp_reminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792224477577-6j2k1uc3sribl17uomgp0eoafireggv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fyp_reminder",
+            "certificate_hash": "4372d4080b20840a0249a6605fb1099f2cc327f7"
+          }
+        },
+        {
+          "client_id": "792224477577-lp1m92ngphrvkslgl5kh9a5hpqqgefj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBN9-oCbhPh9A8BYYQlCMTqmYi9Q35rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792224477577-lp1m92ngphrvkslgl5kh9a5hpqqgefj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
